@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2021-07-17 12:10">
     <shop>
-        <name>Диагностический центр №6 на Дмитровском шоссе</name>
+        <name>Диагностический центр №6</name>
         <company>Диагностический центр №6 на Дмитровском шоссе</company>
         <url>https://urolog-aliev.ru/</url>
-        <picture>https://kdc6.ru/local/templates/demius-med/img/logo1.png</picture>
+        <picture>https://static.tildacdn.com/tild3732-3530-4630-b839-653833363965/__6.png</picture>
         <description>Каталог врачей</description>
         <currencies>
           <currency id="RUR" rate="1" />
